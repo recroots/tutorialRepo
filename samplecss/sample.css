@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+#para1{
+	width:250px;
+	text-align:justify;
+	color:#C00;
+}
+
+.para2{
+	width:600px;
+	text-align:center;
+	color:#F03;
+}
+h1{
+	color:#090;
+}
